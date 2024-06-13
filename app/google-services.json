@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42224759576",
+    "project_id": "qoutely-99f79",
+    "storage_bucket": "qoutely-99f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42224759576:android:725da6f670c2fd54f8e46d",
+        "android_client_info": {
+          "package_name": "com.example.qoutely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosGC7gD1IRDyrn6Fz7Qo8gd6KRo8h3W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
